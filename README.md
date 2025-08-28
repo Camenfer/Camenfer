@@ -1,25 +1,18 @@
 ## 👋 Sobre mim
 
-Olá! Meu nome é [Seu Nome]. Sou apaixonado por tecnologia, especialmente por Python e automação de processos. Gosto de criar soluções que tornam tarefas repetitivas mais simples e eficientes, utilizando scripts, bots e ferramentas personalizadas.
+Olá! Meu nome é Caio. Sou apaixonado por tecnologia, especialmente por Python e automação de processos. Gosto de criar soluções que tornam tarefas repetitivas mais simples e eficientes, utilizando scripts, bots e ferramentas personalizadas.
 
 - 💻 Foco em desenvolvimento com Python
 - ⚡ Experiência em automação de rotinas e integração de sistemas
 - 🚀 Sempre aprendendo novas formas de otimizar processos
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato!
-## Hi there 👋
 
-<!--
-**Camenfer/Camenfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+https://www.linkedin.com/in/caiomenfer/
