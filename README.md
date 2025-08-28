@@ -1,18 +1,23 @@
-## 👋 Sobre mim
+# 👋 Olá, eu sou o Caio!
 
-Olá! Meu nome é Caio. Sou apaixonado por tecnologia, especialmente por Python e automação de processos. Gosto de criar soluções que tornam tarefas repetitivas mais simples e eficientes, utilizando scripts, bots e ferramentas personalizadas.
+Sou apaixonado por tecnologia, com foco em desenvolvimento Python e automação de processos. Busco sempre criar soluções que tornem tarefas repetitivas mais simples e eficientes, utilizando scripts, bots e ferramentas personalizadas.
 
-- 💻 Foco em desenvolvimento com Python
-- ⚡ Experiência em automação de rotinas e integração de sistemas
-- 🚀 Sempre aprendendo novas formas de otimizar processos
+## 💡 Sobre mim
+- Desenvolvedor Python
+- Especialista em automação de rotinas e integração de sistemas
+- Entusiasta de novas tecnologias e otimização de processos
+- Sempre aprendendo e compartilhando conhecimento
 
-Sinta-se à vontade para explorar meus repositórios e entrar em contato!
+## 🚀 O que estou fazendo
+- Trabalhando em projetos de automação e integração
+- Aprendendo sobre IA, APIs e DevOps
+- Colaborando em projetos open source
 
+## 🤝 Como posso ajudar
+- Dúvidas sobre Python, automação ou integração de sistemas
+- Parcerias em projetos de tecnologia
+- Compartilhamento de experiências e aprendizados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-https://www.linkedin.com/in/caiomenfer/
+## 📫 Contato
+- [LinkedIn](https://www.linkedin.com/in/caiomenfer/)
+- Sinta-se à vontade para explorar meus repositórios e entrar em contato!
